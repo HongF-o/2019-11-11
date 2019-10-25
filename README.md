@@ -2,7 +2,7 @@
 2019年双十一京东淘宝任务
   
 # 淘宝  
-`作者:krapnik`:blush:
+`作者:krapnik`:raised_hands:
   
 1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)  
   
@@ -20,7 +20,7 @@
 打开浏览器--F12--console--粘贴--回车运行脚本  
   
 # 京东  
-`作者:未知`:blush:  
+`作者:未知`:raised_hands:  
   
 1. [登陆京东账号](https://www.jd.com/)  
   
