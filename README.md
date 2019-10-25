@@ -3,7 +3,7 @@
 
 
 # 淘宝  
-`作者:krapnik`:blush:大佬的脚本  
+`作者:krapnik`:blush:
 
 1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)  
 
@@ -21,7 +21,7 @@
 打开浏览器--F12--console--粘贴--回车运行脚本  
 
 # 京东
-:blush:
+`作者:未知`:blush:
 
 1. [登陆京东账号](https://www.jd.com/)  
 
