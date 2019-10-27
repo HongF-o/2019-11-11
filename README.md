@@ -1,7 +1,7 @@
 ## 双十一电商APP任务  
 2019年双十一京东淘宝任务  
 ***
-`V2.0`  
+`V2.0`版本  
   
 # 淘宝  
 > 使用方法  
@@ -39,7 +39,7 @@
 
 
 ***  
-`V1.0`
+`V1.0`版本  
 #### 淘宝  
 :raised_hands:`作者:krapnik`  
 1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)  
