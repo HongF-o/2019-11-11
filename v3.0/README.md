@@ -23,9 +23,9 @@
 - [x] 30个店铺每日签到活动  
 
 > 使用截图
-[![](/img/软件.png "软件")][软件截图]
-
-
+![软件](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%BD%AF%E4%BB%B6.png)
+![自动化喵币中心任务](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%96%B5%E5%B8%81%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1.png)
+![30店铺自动签到](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/30%E5%BA%97%E9%93%BA%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0.png)
 ### 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
 2. [打开网页](https://happy.m.jd.com/babelDiy/GZWVJFLMXBQVEBDQZWMY/XJf8bH6oXDWSgS91daDJzXh9bU7/index.html#/failback)  
