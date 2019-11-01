@@ -3,7 +3,7 @@
 ~~1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)~~  
 ~~2. [打开网页](https://market.m.taobao.com/app/tb-source-app/campaign/pages/index)~~  
 ~~显示`系统竟然出错了`不要管 就是这个页面~~  
-~~3. [淘宝脚本](/天猫喵币脚本.txt)~~  
+~~3. [淘宝脚本](/淘宝喵币脚本.txt)~~  
 > ~~功能~~  
 ~~- [x] 30个店铺每日签到活动~~  
 ~~- [ ] 领喵币活动下所有红色“去完成”“去签到”~~  
