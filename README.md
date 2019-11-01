@@ -4,8 +4,8 @@
 `V3.0`版本  
 # 淘宝  
 > 使用方法  
-1. 直接安装“[Helle 11.11_v3.0 .apk](/Helle 11.11_v3.0 .apk)”  
-2. 首次打开“[Helle 11.11_v3.0 .apk](/Helle 11.11_v3.0 .apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
+1. 直接安装“[Helle11.11_v3.0.apk](/Helle11.11_v3.0.apk)”  
+2. 首次打开“[Helle11.11_v3.0.apk](/Helle 11.11_v3.0 .apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
 3. 返回“[Helle 11.11_v3.0 .apk](/Helle 11.11_v3.0 .apk)”软件，领喵币活动下所有红色“去完成”“去签到” 均可自动完成  
   
 > 功能  
@@ -62,17 +62,17 @@
 ***  
 `V1.0`版本  
 #### 淘宝
-~~:raised_hands:`作者:krapnik`  
-1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)  
-~~2. [打开网页](https://market.m.taobao.com/app/tb-source-app/campaign/pages/index)  
-显示`系统竟然出错了`不要管 就是这个页面  
-3. [淘宝脚本](/天猫喵币脚本.txt)  
-~~> 功能  
-- [x] 30个店铺每日签到活动   
-~~- [ ] 领喵币活动下所有红色“去完成”“去签到”  
-- [ ] 浏览会场  
-~~> 使用方法  
-打开浏览器--F12--console--粘贴--回车运行脚本~~
+~~:raised_hands:`作者:krapnik`~~
+~~1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)~~
+~~2. [打开网页](https://market.m.taobao.com/app/tb-source-app/campaign/pages/index)~~
+~~显示`系统竟然出错了`不要管 就是这个页面~~
+~~3. [淘宝脚本](/天猫喵币脚本.txt)~~
+> ~~功能~~
+~~- [x] 30个店铺每日签到活动~~
+~~- [ ] 领喵币活动下所有红色“去完成”“去签到”~~
+~~- [ ] 浏览会场~~
+> ~~使用方法~~
+~~打开浏览器--F12--console--粘贴--回车运行脚本~~
 #### 京东  
 :raised_hands:`作者:未知`  
 1. [登陆京东账号](https://www.jd.com/)  
