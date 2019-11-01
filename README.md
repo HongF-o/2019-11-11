@@ -2,7 +2,7 @@
 2019年双十一京东淘宝任务  
 ***
 `V3.0`版本  
-# 淘宝  
+# 淘宝3.0  
 > 使用方法  
 1. 直接安装“[Helle11.11_v3.0](/Helle11.11_v3.0.apk)”  
 2. 首次打开“[Helle11.11_v3.0](/Helle11.11_v3.0.apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
@@ -14,7 +14,7 @@
 - [x] 领喵币活动下所有红色“去完成”“去签到” 均可自动完成  
 - [ ] 30个店铺每日签到活动不可使用  
   
-# 京东  
+# 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
 2. [打开网页](https://happy.m.jd.com/babelDiy/GZWVJFLMXBQVEBDQZWMY/XJf8bH6oXDWSgS91daDJzXh9bU7/index.html#/failback)  
 3. [京东脚本](/京东养红包脚本.txt)  
@@ -32,7 +32,7 @@
   
 ***
 `V2.0`版本  
-#### 淘宝  
+#### 淘宝2.0  
 > 使用方法  
 1. 首先安装“[Auto.js.apk](/Auto.js.apk)”  
 2. 导入脚本文件“[天猫领金币.js](/天猫领金币.js)”到刚才安装的软件“Auto.js”中  
@@ -44,7 +44,7 @@
 - [x] 自动设配屏幕   
 - [x] 签到  
 - [x] 逛店铺/会场
-#### 京东  
+#### 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
 2. [打开网页](https://happy.m.jd.com/babelDiy/GZWVJFLMXBQVEBDQZWMY/XJf8bH6oXDWSgS91daDJzXh9bU7/index.html#/failback)  
 3. [京东脚本](/京东养红包脚本.txt)  
@@ -61,7 +61,7 @@
   
 ***  
 `V1.0`版本  
-#### 淘宝
+#### ~~淘宝~~1.0
 ~~:raised_hands:`作者:krapnik`~~  
 ~~1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)~~  
 ~~2. [打开网页](https://market.m.taobao.com/app/tb-source-app/campaign/pages/index)~~  
@@ -73,7 +73,7 @@
 ~~- [ ] 浏览会场~~  
 > ~~使用方法~~  
 ~~打开浏览器--F12--console--粘贴--回车运行脚本~~  
-#### 京东  
+#### 京东1.0  
 :raised_hands:`作者:未知`  
 1. [登陆京东账号](https://www.jd.com/)  
 2. [打开网页](https://happy.m.jd.com/babelDiy/GZWVJFLMXBQVEBDQZWMY/XJf8bH6oXDWSgS91daDJzXh9bU7/index.html#/failback)  
