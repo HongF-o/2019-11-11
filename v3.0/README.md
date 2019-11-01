@@ -1,31 +1,30 @@
-#淘宝3.0（Helle）`自动完成活动页面任务`+淘宝2.0（Auto.js）`完成30店铺浏览活动` 需要组合使用两个软件
-## 淘宝3.0  
+# （Helle）`自动完成喵币中心任务`+（Auto.js）`自动完成30店铺浏览活动` 需要组合使用两个软件
+:exclamation:其中自动完成30店铺浏览活动具有时效性:exclamation:
+## 淘宝3.0
+#### 第一个软件  
 > 使用方法  
 1. 直接安装“[Helle11.11_v3.0](/v3.0/Helle11.11_v3.0.apk)”  
 2. 首次打开“[Helle11.11_v3.0](/v3.0/Helle11.11_v3.0.apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
 3. 返回“[Helle11.11_v3.0](/v3.0/Helle11.11_v3.0.apk)”软件，领喵币活动下所有红色“去完成”“去签到” 均可自动完成  
-  
 > 功能  
 - [x] 自动设配屏幕   
 - [x] 签到  
 - [x] 领喵币活动下所有红色“去完成”“去签到” 
 - [ ] 30个店铺每日签到活动  
-
-## 淘宝2.0  
+#### 第二个软件  
 > 使用方法  
-1. 首先安装“[Auto.js](/v2.0/Auto.js.apk)”  
-2. 导入脚本文件“[30店铺](/v2.0/30店铺.js)”到刚才安装的软件“Auto.js”中  
-3. 首次打开“[Auto.js](/v2.0/Auto.js.apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
-4. 返回“[Auto.js](/v2.0/Auto.js.apk)”软件，点击左上角三道杠，打开悬浮窗，进入设置开启此软件悬浮窗权限即可。  
+1. 首先安装“[Auto.js](/v3.0/Auto.js.apk)”  
+2. 导入脚本文件“[30店铺](/v3.0/30店铺.js)”到刚才安装的软件“[Auto.js](/v3.0/Auto.js.apk)”中  
+3. 首次打开“[Auto.js](/v3.0/Auto.js.apk)”会提示启用无障碍服务，点击“去设置”，开启无障碍即可  
+4. 返回“[Auto.js](/v3.0/Auto.js.apk)”软件，点击左上角三道杠，打开悬浮窗，进入设置开启此软件悬浮窗权限即可。  
 （若开启失败，请检查屏幕上是否有其他软件的悬浮球）  
 5. 进入淘宝活动页面，点击悬浮球展开，最上方三道杠，点击开始按钮即可自动签到30个店铺。若要停止运行，点击悬浮球展开，点击那个黄色背景的X即可停止。  
 > 功能  
 - [x] 30个店铺每日签到活动  
-
-> 使用截图
-![软件](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%BD%AF%E4%BB%B6.png)
-![自动化喵币中心任务](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%96%B5%E5%B8%81%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1.png)
-![30店铺自动签到](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/30%E5%BA%97%E9%93%BA%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0.png)
+> 使用截图  
+![软件](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%BD%AF%E4%BB%B6.png)  
+![自动化喵币中心任务](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%96%B5%E5%B8%81%E4%B8%AD%E5%BF%83%E4%BB%BB%E5%8A%A1.png)  
+![30店铺自动签到](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/30%E5%BA%97%E9%93%BA%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0.png)  
 ***
 ### 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
