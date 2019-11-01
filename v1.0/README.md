@@ -1,4 +1,4 @@
-# ~~淘宝~~1.0
+# ~~淘宝1.0~~
 ~~:raised_hands:`作者:krapnik`~~  
 ~~1. [登陆淘宝账号](https://main.m.taobao.com/mytaobao/index.html)~~  
 ~~2. [打开网页](https://market.m.taobao.com/app/tb-source-app/campaign/pages/index)~~  
