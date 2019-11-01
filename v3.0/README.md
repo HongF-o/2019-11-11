@@ -27,7 +27,7 @@
 ### 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
 2. [打开网页](https://happy.m.jd.com/babelDiy/GZWVJFLMXBQVEBDQZWMY/XJf8bH6oXDWSgS91daDJzXh9bU7/index.html#/failback)  
-3. [京东脚本](/1.0/京东养红包脚本.txt)  
+3. [京东脚本](/v1.0/京东养红包脚本.txt)  
 > 功能  
 - [x] 逛商品  
 - [x] 逛店铺    
