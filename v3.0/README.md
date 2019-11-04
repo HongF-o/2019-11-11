@@ -20,8 +20,8 @@
 > 功能  
 - [x] 30个店铺每日签到活动  
 > 使用截图  
-![软件](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E8%BD%AF%E4%BB%B6.png)  
-![任务](https://github.com/xin-code/2019-11-11/blob/master/v3.0/png/%E4%BB%BB%E5%8A%A1.png)  
+![软件](/v3.0/png/软件.png)  
+![任务](/v3.0/png/任务.png)  
 ***
 ### 京东1.0  
 1. [登陆京东账号](https://www.jd.com/)  
